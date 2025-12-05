@@ -197,7 +197,7 @@
 
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="${MAPS_API_KEY}" />
+            android:value="AIzaSyCQAk3OfjplCK6CIvNfQ8Mm-9irikbZS24" />
 
         <provider
             android:name=".search.SearchTermsProvider"
